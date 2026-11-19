@@ -1,0 +1,1 @@
+export const githubRepoUrl = "https://github.com/enesKurnaz/dailyProject.git";
